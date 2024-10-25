@@ -1,0 +1,14 @@
+== AddEventListener ==
+digunakan untuk menangkap dan merespons suatu kejadian atau event, seperti klik, ketikan keyboard, atau gerakan mouse pada elemen HTML
+
+== Promt ==
+jendela dialog sederhana yang muncul untuk meminta input teks dari pengguna
+
+== createTextNode ==
+digunakan untuk membuat teks yang nantinya bisa dimasukkan ke elemen HTML. Ini hanya membuat teks, tanpa tag HTML.
+
+== createElement ==
+digunakan untuk membuat elemen HTML baru (seperti <div>, <p>, <button>, dll.) yang dapat kita tambahkan ke dalam halaman.
+
+== appendChild ==
+digunakan untuk menambahkan elemen anak (child) ke dalam elemen induk (parent) yang sudah ada di halaman. Biasanya dipakai bersama dengan createElement atau createTextNode

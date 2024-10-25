@@ -8,7 +8,8 @@
   height: 100px;
   background-color: blueviolet;
   margin: 10px;
-  /* display: none; */
+  display: flex;
+  flex-wrap: wrap;
 }
 
 .violet {
